@@ -1,0 +1,3 @@
+The idea is to protect the data from direct access or modification from outside the class.
+This can be achieved by using access modifiers and inner classes_oop_enum_presentation.classes. We can choose what can be exposed outside of our class
+and what not.

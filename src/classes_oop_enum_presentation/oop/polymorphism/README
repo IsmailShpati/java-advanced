@@ -1,0 +1,9 @@
+Polymorphism also known as multiforme.
+Objects of different classes_oop_enum_presentation.classes can be treated as objects of a common superclass.
+Polymorphism means that a variable of a supertype can refer to a subtype object
+
+A class defines a type. A type defined by a subclass is called a subtype, and a type
+defined by its superclass is called a supertype. Therefore, you can say that
+Student is a subtype of Person and Person is a supertype for Student.
+
+In other words, it is the ability of objects to return different responses to the same request.

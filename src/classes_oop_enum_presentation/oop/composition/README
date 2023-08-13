@@ -1,0 +1,7 @@
+Alternative way to implement reusable components.
+Focuses on assembling objects and not inheriting or extending their functionality.
+
+Using composition, classes can have components assigned dynamically to them on runtime meanwhile inheritance
+defines a static relationship between child and parent creating a tight coupling.
+
+When multiple classes are extended, extensive inheritance is used making the code much harder to work on

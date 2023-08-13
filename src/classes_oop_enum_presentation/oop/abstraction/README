@@ -1,0 +1,7 @@
+This pillar of OOP focuses on hiding away implementation details from the user.
+
+By using classes_oop_enum_presentation.interfaces and abstract classes_oop_enum_presentation.classes we can expose the user only to the method definitions
+without exposing to them how the actual implementation of the method is done.
+
+When using a TV remote, do you need to know the technical details of how the TV works?
+You are only exposed to the buttons and what the end result is but now how its done.
